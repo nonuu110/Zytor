@@ -22,7 +22,7 @@ Stop juggling multiple apps, shady websites, or converters.
 </div>
 
 ## Screenshots
-
+<p align="center">
 <img src="./Images/img1.jpg" width="120" alt="Zytor Img1"/>
 <img src="./Images/img2.jpg" width="120" alt="Zytor Img2"/>
 <img src="./Images/img3.jpg" width="120" alt="Zytor Img3"/>
@@ -33,6 +33,7 @@ Stop juggling multiple apps, shady websites, or converters.
 <img src="./Images/img8.jpg" width="120" alt="Zytor Img8"/>
 <img src="./Images/img9.jpg" width="120" alt="Zytor Img9"/>
 <img src="./Images/img10.jpg" width="120" alt="Zytor Img10"/>
+</p>
 
 ## Features
 
