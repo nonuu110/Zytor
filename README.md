@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="./Images/icon.png" width="75" alt="Zytor Icon"/>
+
 # Zytor
 
-### **The All-in-One Media Downloader**
+### The All-in-One Media Downloader
 
 ### One App. Any Link. No Ads. No Tracking. Full Privacy. Unlimited Possibilities
 
@@ -18,6 +20,19 @@ Stop juggling multiple apps, shady websites, or converters.
 [![License](https://img.shields.io/badge/License-GPLv3-blue)]()
 
 </div>
+
+## Screenshots
+
+<img src="./Images/img1.jpg" width="120" alt="Zytor Img1"/>
+<img src="./Images/img2.jpg" width="120" alt="Zytor Img2"/>
+<img src="./Images/img3.jpg" width="120" alt="Zytor Img3"/>
+<img src="./Images/img4.jpg" width="120" alt="Zytor Img4"/>
+<img src="./Images/img5.jpg" width="120" alt="Zytor Img5"/>
+<img src="./Images/img6.jpg" width="120" alt="Zytor Img6"/>
+<img src="./Images/img7.jpg" width="120" alt="Zytor Img7"/>
+<img src="./Images/img8.jpg" width="120" alt="Zytor Img8"/>
+<img src="./Images/img9.jpg" width="120" alt="Zytor Img9"/>
+<img src="./Images/img10.jpg" width="120" alt="Zytor Img10"/>
 
 ## Features
 
@@ -88,8 +103,6 @@ Power users get superpowers.
 This isn’t a downloader.  
 It’s a **media control center**.
 
-
-
 ### 🎨 Modern, Beautiful, Fast
 
 - Premium UI  
@@ -131,8 +144,6 @@ There are thousands of so-called downloaders —  but each one does **only one t
 **Zytor ends this nonsense.**  
 It is the **first downloader built like a real product — not a trick/hack.**
 
-
-
 ## 💥 What Makes Zytor Different?
 
 | Feature                     | Zytor | Others |
@@ -164,7 +175,7 @@ Zytor uses two release channels:
 If Zytor replaced 5 different apps on your phone — give it a ⭐. It helps more than you think.
 
 <div align="center">
- 
+
 **Designed & Developed with 🩷 by @ImKKingshuk**
 
 </div>
